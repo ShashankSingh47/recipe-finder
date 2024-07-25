@@ -1,4 +1,4 @@
-Recipe Finder App
+# Recipe Finder App
 
 Welcome to the Recipe Finder App! This simple application allows users to search for recipes, save their favorites, and watch related YouTube videos. All favorites are stored locally in the browser's local storage.
 
@@ -79,5 +79,5 @@ Open a pull request.
 Contact
 For any inquiries or feedback, please contact:
 
-Your Name: shashank.singh47@live.com
+Email: shashank.singh47@live.com
 GitHub: https://github.com/ShashankSingh47
